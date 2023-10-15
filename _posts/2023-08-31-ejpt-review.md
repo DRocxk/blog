@@ -1,6 +1,6 @@
 ---
 title: eJPTv2 Review
-date: 2023-09-10 16:15:00 +/-5000
+date: 2023-08-31 16:15:00 +/-5000
 categories: [Certs, eJPT]
 tags: [easy, review, blog]
 pin: true
