@@ -5,8 +5,8 @@ categories: [Certs, eJPT]
 tags: [easy, review, blog]
 pin: true
 image:
-  path: /assets/images/ejpt/ejpt.jpg
-  lqip: /assets/images/ejpt/ejpt.jpg
+  path: /assets/images/ejpt/ejpt.webp
+  lqip: /assets/images/ejpt/ejpt.webp
 ---
 
 # My First Post on my Blog
